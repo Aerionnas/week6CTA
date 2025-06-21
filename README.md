@@ -1,4 +1,4 @@
-# week6CTA
+# Week6CTA
 Option #1: Storing an ArrayList
 Create a Java program that will store 10 student objects in an ArrayList, ArrayList<Student>. A student object consists of the following fields:
 
